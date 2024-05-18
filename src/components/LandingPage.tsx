@@ -1,7 +1,9 @@
-import { Button } from "@/components/ui/button"
+import React from 'react'
 
-export function ButtonDemo() {
-  return <Button>Button</Button>
+const LandingPage = () => {
+  return (
+    <div>LandingPage</div>
+  )
 }
 
-export default ButtonDemo
+export default LandingPage
