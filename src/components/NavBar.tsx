@@ -2,7 +2,6 @@ import React from 'react'
 
 const NavBar = () => {
   return (
-
     <div>
         <h1>Harmony</h1>
         <br />
