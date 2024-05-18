@@ -9,3 +9,4 @@
 * Machine Learning Models: Continuously trained on diverse datasets to improve the accuracy and efficiency of detecting vulgar and harmful comments.
 
 * Real-time Moderation: Automatically filters out inappropriate content and flags it for further review by our moderation team.
+
